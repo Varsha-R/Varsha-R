@@ -36,7 +36,7 @@ I recently got into open-source and here's my first contribution:
 
 ## 📫  Reach me elsewhere
 - Email: varsharavindra12@gmail.com
-- [Linkedin](https://www.linkedin.com/in/varsha-ravindra-b5a39511a/)
+- [LinkedIn](https://www.linkedin.com/in/varsha-ravindra-b5a39511a/)
 - [Twitter](https://www.linkedin.com/in/varsha-ravindra-b5a39511a/)
 
 
