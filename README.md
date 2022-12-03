@@ -34,7 +34,7 @@ I recently got into open-source and here's my first contribution:
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "SQLite")
 
 
-## 📫  Reach me elsewhere
+# 📫  Reach me elsewhere
 - Email: varsharavindra12@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/varsha-ravindra-b5a39511a/)
 - [Twitter](https://www.linkedin.com/in/varsha-ravindra-b5a39511a/)
