@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m [Varsha](https://www.linkedin.com/in/varsha-ravindra-b5a39511a/)
+# 👋 Hey there, I’m [Varsha](https://www.linkedin.com/in/varsha-ravindra-b5a39511a/)!
 I'm almost finished with my MS in Computer Science at Arizona State University. I have 2+ years of experience as a Software Engineer. I'm extremely passionate about anything software.
 
 I recently got into open-source and here's my first contribution:
